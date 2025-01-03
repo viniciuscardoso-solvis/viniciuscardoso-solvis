@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="173" src="https://raw.githubusercontent.com/viniciuscardoso-solvis/certificados/refs/heads/main/img/Vinicius%20Cardoso-2.png"  />
+  <img height="173" src="https://raw.githubusercontent.com/vinicdev/certificados/refs/heads/main/img/Vinicius%20Cardoso-2.png"  />
 </div>
 
 ###
