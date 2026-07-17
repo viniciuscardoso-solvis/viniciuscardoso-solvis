@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="173" src="https://raw.githubusercontent.com/vinicdev/certificados/refs/heads/main/img/Vinicius%20Cardoso-2.png"  />
-</div>
-
-###
-
 <h1 align="center">Hello! I'm Vinicius Cardoso ✨</h1>
 
 ###
